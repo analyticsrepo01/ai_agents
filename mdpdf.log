@@ -1,45 +1,56 @@
-    INFO: 2024-03-26 09:13:54,342:               log.py:   20: Logging to /home/jupyter/GenAI5/ai_agents/mdpdf.log
-   DEBUG: 2024-03-26 09:13:54,342:               cli.py:  103: story.md
-    INFO: 2024-03-26 09:13:54,343:         converter.py:   14: story.md
-   DEBUG: 2024-03-26 09:13:54,346:      pdf_renderer.py:  470: printSegment: Chapter 1: The Forest Friends
-   DEBUG: 2024-03-26 09:13:54,349:      pdf_renderer.py:  470: printSegment: [
-   DEBUG: 2024-03-26 09:13:54,351:      pdf_renderer.py:  470: printSegment: Image of Forest Friends
-   DEBUG: 2024-03-26 09:13:54,351:      pdf_renderer.py:  470: printSegment: ]
-   DEBUG: 2024-03-26 09:13:54,417:      pdf_renderer.py:  470: printSegment: In the heart of the forest, where trees whispered secrets and sunlight danced through the canopy, the animal kingdom
-   DEBUG: 2024-03-26 09:13:54,454:      pdf_renderer.py:  470: printSegment: gathered for an important meeting. Leo the Lion, the brave and respected leader, stood tall in the center. Zara the
-   DEBUG: 2024-03-26 09:13:54,472:      pdf_renderer.py:  470: printSegment: Zebra, with her playful spirit and lightning-fast speed, darted around the clearing. Sammy the Squirrel, agile and
-   DEBUG: 2024-03-26 09:13:54,478:      pdf_renderer.py:  470: printSegment: cunning, swung from branch to branch overhead. They shared their concerns about the increasing presence of
-   DEBUG: 2024-03-26 09:13:54,479:      pdf_renderer.py:  470: printSegment: humans in their habitat, threatening their safety and harmony.
-   DEBUG: 2024-03-26 09:13:54,480:      pdf_renderer.py:  470: printSegment: Chapter 2: The River Adventure
-   DEBUG: 2024-03-26 09:13:54,481:      pdf_renderer.py:  470: printSegment: [
-   DEBUG: 2024-03-26 09:13:54,481:      pdf_renderer.py:  470: printSegment: Image of River Adventure
-   DEBUG: 2024-03-26 09:13:54,482:      pdf_renderer.py:  470: printSegment: ]
-   DEBUG: 2024-03-26 09:13:54,526:      pdf_renderer.py:  470: printSegment: To find a new home, the animals embarked on a journey down the flowing river. Emily the Elephant, wise and
-   DEBUG: 2024-03-26 09:13:54,550:      pdf_renderer.py:  470: printSegment: gentle, led the way with her steady steps. Billy the Beaver, the skilled builder, constructed a sturdy raft for them to
-   DEBUG: 2024-03-26 09:13:54,558:      pdf_renderer.py:  470: printSegment: sail upon. Molly the Monkey, always curious and mischievous, entertained them with her antics. As they paddled
-   DEBUG: 2024-03-26 09:13:54,559:      pdf_renderer.py:  470: printSegment: along, they marveled at the beauty of the riverbanks and the creatures that inhabited them.
-   DEBUG: 2024-03-26 09:13:54,560:      pdf_renderer.py:  470: printSegment: Chapter 3: The Jungle Encounter
-   DEBUG: 2024-03-26 09:13:54,560:      pdf_renderer.py:  470: printSegment: [
-   DEBUG: 2024-03-26 09:13:54,561:      pdf_renderer.py:  470: printSegment: Image of Jungle Encounter
-   DEBUG: 2024-03-26 09:13:54,561:      pdf_renderer.py:  470: printSegment: ]
-   DEBUG: 2024-03-26 09:13:54,614:      pdf_renderer.py:  470: printSegment: Their journey led them into the depths of a dense jungle. There, they encountered a group of unfamiliar creatures.
-   DEBUG: 2024-03-26 09:13:54,649:      pdf_renderer.py:  470: printSegment: Raja the Tiger, fierce and solitary, watched them cautiously from the shadows. Nisha the Nightjar, secretive and
-   DEBUG: 2024-03-26 09:13:54,663:      pdf_renderer.py:  470: printSegment: nocturnal, flitted through the trees. Ravi the Rhinoceros, massive and protective, stood firm against any potential
-   DEBUG: 2024-03-26 09:13:54,667:      pdf_renderer.py:  470: printSegment: threats. The animals learned to navigate the dangers and challenges of this new environment, respecting the
-   DEBUG: 2024-03-26 09:13:54,668:      pdf_renderer.py:  470: printSegment: boundaries of their jungle neighbors.
-   DEBUG: 2024-03-26 09:13:54,669:      pdf_renderer.py:  470: printSegment: Chapter 4: The Mountain Challenge
-   DEBUG: 2024-03-26 09:13:54,669:      pdf_renderer.py:  470: printSegment: [
-   DEBUG: 2024-03-26 09:13:54,670:      pdf_renderer.py:  470: printSegment: Image of Mountain Challenge
-   DEBUG: 2024-03-26 09:13:54,670:      pdf_renderer.py:  470: printSegment: ]
-   DEBUG: 2024-03-26 09:13:54,712:      pdf_renderer.py:  470: printSegment: Their quest continued as they faced a daunting mountain climb. Benji the Bear, resourceful and adaptable, led the
-   DEBUG: 2024-03-26 09:13:54,731:      pdf_renderer.py:  470: printSegment: way with his sturdy claws. Lucy the Leopard, sleek and agile, scaled the rocky slopes with ease. Rocky the Rabbit,
-   DEBUG: 2024-03-26 09:13:54,738:      pdf_renderer.py:  470: printSegment: timid but determined, hopped and burrowed through the undergrowth. Together, they overcame obstacles and
-   DEBUG: 2024-03-26 09:13:54,739:      pdf_renderer.py:  470: printSegment: ascended the treacherous mountain, their bonds strengthened by the challenges they faced.
-   DEBUG: 2024-03-26 09:13:54,740:      pdf_renderer.py:  470: printSegment: Chapter 5: The Return Home
-   DEBUG: 2024-03-26 09:13:54,740:      pdf_renderer.py:  470: printSegment: [
-   DEBUG: 2024-03-26 09:13:54,741:      pdf_renderer.py:  470: printSegment: Image of Return Home
-   DEBUG: 2024-03-26 09:13:54,741:      pdf_renderer.py:  470: printSegment: ]
-   DEBUG: 2024-03-26 09:13:54,776:      pdf_renderer.py:  470: printSegment: Finally, the animals returned to their familiar forest home. They were greeted with joy and relief by their friends and
-   DEBUG: 2024-03-26 09:13:54,793:      pdf_renderer.py:  470: printSegment: family. They shared stories of their adventures, the challenges they overcame, and the friendships they had forged
-   DEBUG: 2024-03-26 09:13:54,798:      pdf_renderer.py:  470: printSegment: along the way. The animals vowed to protect their habitat and continue to live together in harmony, celebrating the
-   DEBUG: 2024-03-26 09:13:54,798:      pdf_renderer.py:  470: printSegment: diversity and unity of the animal kingdom.
+    INFO: 2024-04-23 08:00:05,054:               log.py:   20: Logging to /home/jupyter/GenAI5/ai_agents/mdpdf.log
+   DEBUG: 2024-04-23 08:00:05,055:               cli.py:  103: story.md
+    INFO: 2024-04-23 08:00:05,055:         converter.py:   14: story.md
+   DEBUG: 2024-04-23 08:00:05,058:      pdf_renderer.py:  470: printSegment: The Extraordinary Expedition of Captain Curious
+   DEBUG: 2024-04-23 08:00:05,062:      pdf_renderer.py:  470: printSegment: Chapter 1: A Thirst for Adventure
+   ERROR: 2024-04-23 08:00:05,063:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:5: https://i.imgur.com/5QzJ5Qz.jpg: No such file or directory
+   DEBUG: 2024-04-23 08:00:05,066:      pdf_renderer.py:  470: printSegment: Captain Curious, a young monkey brimming with curiosity, couldn
+   DEBUG: 2024-04-23 08:00:05,066:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:00:05,075:      pdf_renderer.py:  470: printSegment: t resist gazing beyond the familiar treetops. The
+   DEBUG: 2024-04-23 08:00:05,076:      pdf_renderer.py:  470: printSegment: whispers of the unknown lands below filled his heart with longing. Penelope, the wise owl, observed his yearning. 
+   DEBUG: 2024-04-23 08:00:05,077:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-04-23 08:00:05,079:      pdf_renderer.py:  470: printSegment: The jungle holds many wonders, Captain Curious,
+   DEBUG: 2024-04-23 08:00:05,079:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-04-23 08:00:05,080:      pdf_renderer.py:  470: printSegment:  she began, 
+   DEBUG: 2024-04-23 08:00:05,080:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-04-23 08:00:05,081:      pdf_renderer.py:  470: printSegment: but also dangers unseen.
+   DEBUG: 2024-04-23 08:00:05,082:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-04-23 08:00:05,087:      pdf_renderer.py:  470: printSegment:  Undeterred, Captain
+   DEBUG: 2024-04-23 08:00:05,088:      pdf_renderer.py:  470: printSegment: Curious, with Whisker the playful squirrel by his side, embarked on a thrilling quest into the unknown.
+   DEBUG: 2024-04-23 08:00:05,089:      pdf_renderer.py:  470: printSegment: Chapter 2: The River of Whispers
+   ERROR: 2024-04-23 08:00:05,090:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:11: https://i.imgur.com/Z2QzQzQ.jpg: No such file or directory
+   DEBUG: 2024-04-23 08:00:05,094:      pdf_renderer.py:  470: printSegment: Their journey led them to the shimmering River of Whispers. Finn, the friendly otter, joined their expedition,
+   DEBUG: 2024-04-23 08:00:05,095:      pdf_renderer.py:  470: printSegment: sharing tales of the river
+   DEBUG: 2024-04-23 08:00:05,095:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:00:05,108:      pdf_renderer.py:  470: printSegment: s secrets. The River Nymphs, enchanting guardians, bestowed a magical lantern, its light
+   DEBUG: 2024-04-23 08:00:05,111:      pdf_renderer.py:  470: printSegment: guiding their path. However, a lurking Shadow beneath the surface threatened their progress, leaving their fate
+   DEBUG: 2024-04-23 08:00:05,112:      pdf_renderer.py:  470: printSegment: hanging in the balance.
+   DEBUG: 2024-04-23 08:00:05,113:      pdf_renderer.py:  470: printSegment: Chapter 3: The Whispering Caves
+   ERROR: 2024-04-23 08:00:05,114:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:17: https://i.imgur.com/O2QzO2Q.jpg: No such file or directory
+   DEBUG: 2024-04-23 08:00:05,123:      pdf_renderer.py:  470: printSegment: Seeking shelter, they entered the glittering Whispering Caves. Echo, the shy bat, became their guide, navigating the
+   DEBUG: 2024-04-23 08:00:05,125:      pdf_renderer.py:  470: printSegment: maze-like tunnels. The mischievous Echo Spirits, with their playful mimicry, tested the group
+   DEBUG: 2024-04-23 08:00:05,125:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:00:05,127:      pdf_renderer.py:  470: printSegment: s resilience. Just as
+   DEBUG: 2024-04-23 08:00:05,128:      pdf_renderer.py:  470: printSegment: they were about to escape, the Shadow
+   DEBUG: 2024-04-23 08:00:05,129:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:00:05,130:      pdf_renderer.py:  470: printSegment: s minion emerged, forcing Captain Curious to use the River Nymphs
+   DEBUG: 2024-04-23 08:00:05,130:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:00:05,131:      pdf_renderer.py:  470: printSegment:  gift,
+   DEBUG: 2024-04-23 08:00:05,132:      pdf_renderer.py:  470: printSegment: driving back the darkness.
+   DEBUG: 2024-04-23 08:00:05,133:      pdf_renderer.py:  470: printSegment: Chapter 4: The Mountain of Mysteries
+   ERROR: 2024-04-23 08:00:05,133:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:23: https://i.imgur.com/N2QzN2Q.jpg: No such file or directory
+   DEBUG: 2024-04-23 08:00:05,172:      pdf_renderer.py:  470: printSegment: Undeterred, they continued their climb up the treacherous Mountain of Mysteries. The Wise Mountain Goat offered
+   DEBUG: 2024-04-23 08:00:05,190:      pdf_renderer.py:  470: printSegment: cryptic advice, warning of the approaching Shadow. The Mountain Guardians, mystical creatures, presented
+   DEBUG: 2024-04-23 08:00:05,196:      pdf_renderer.py:  470: printSegment: challenging obstacles. Finally, the Shadow itself emerged, ready for a confrontation. Using his courage and wit,
+   DEBUG: 2024-04-23 08:00:05,197:      pdf_renderer.py:  470: printSegment: Captain Curious overcame the Shadow, revealing its true form.
+   DEBUG: 2024-04-23 08:00:05,198:      pdf_renderer.py:  470: printSegment: Chapter 5: Return to the Jungle
+   ERROR: 2024-04-23 08:00:05,198:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:29: https://i.imgur.com/M2QzM2Q.jpg: No such file or directory
+   DEBUG: 2024-04-23 08:00:05,228:      pdf_renderer.py:  470: printSegment: Returning to the jungle, Captain Curious and his companions were hailed as heroes. The Jungle Spirit, a mystical
+   DEBUG: 2024-04-23 08:00:05,239:      pdf_renderer.py:  470: printSegment: entity, acknowledged their growth and courage, welcoming them as protectors of the jungle. Their extraordinary
+   DEBUG: 2024-04-23 08:00:05,240:      pdf_renderer.py:  470: printSegment: expedition had transformed them, leaving a lasting impact on their lives and the jungle forevermore.
+   DEBUG: 2024-04-23 08:00:05,241:      pdf_renderer.py:   53: 0, [1, 'The Extraordinary Expedition of Captain Curious', 1, 68.0]
+   DEBUG: 2024-04-23 08:00:05,242:      pdf_renderer.py:   53: 1, [2, 'Chapter 1: A Thirst for Adventure', 1, 106.0]
+   DEBUG: 2024-04-23 08:00:05,242:      pdf_renderer.py:   53: 2, [2, 'Chapter 2: The River of Whispers', 1, 235.60000000000002]
+   DEBUG: 2024-04-23 08:00:05,242:      pdf_renderer.py:   53: 3, [2, 'Chapter 3: The Whispering Caves', 1, 365.20000000000005]
+   DEBUG: 2024-04-23 08:00:05,242:      pdf_renderer.py:   53: 4, [2, 'Chapter 4: The Mountain of Mysteries', 1, 494.80000000000007]
+   DEBUG: 2024-04-23 08:00:05,242:      pdf_renderer.py:   53: 5, [2, 'Chapter 5: Return to the Jungle', 1, 624.4]

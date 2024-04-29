@@ -1,0 +1,100 @@
+    INFO: 2024-03-26 14:54:16,445:               log.py:   20: Logging to /home/jupyter/GenAI5/ai_agents/mdpdf.log
+   DEBUG: 2024-03-26 14:54:16,445:               cli.py:  103: story.md
+    INFO: 2024-03-26 14:54:16,446:         converter.py:   14: story.md
+   DEBUG: 2024-03-26 14:54:16,450:      pdf_renderer.py:  470: printSegment: The Lion
+   DEBUG: 2024-03-26 14:54:16,453:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:16,453:      pdf_renderer.py:  470: printSegment: s Roar
+   DEBUG: 2024-03-26 14:54:16,454:      pdf_renderer.py:  470: printSegment: Chapter 1: The Lion
+   DEBUG: 2024-03-26 14:54:16,455:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:16,455:      pdf_renderer.py:  470: printSegment: s Roar
+   DEBUG: 2024-03-26 14:54:16,457:      pdf_renderer.py:  235: /home/jupyter/GenAI5/ai_agents/images/c628e508-82de-4188-b5e5-acfbe9978eff.png, 1536, 1536
+   DEBUG: 2024-03-26 14:54:16,564:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-03-26 14:54:16,579:      pdf_renderer.py:  470: printSegment: In the heart of the vibrant jungle, where lush trees reached for the heavens, there lived a majestic lion named Leo.
+   DEBUG: 2024-03-26 14:54:16,582:      pdf_renderer.py:  470: printSegment: Known for his thunderous roar that shook the ground, Leo was the undisputed king of his pride. One sunny morning,
+   DEBUG: 2024-03-26 14:54:16,582:      pdf_renderer.py:  470: printSegment: as Leo
+   DEBUG: 2024-03-26 14:54:16,583:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:16,584:      pdf_renderer.py:  470: printSegment: s roar echoed through the jungle, his playful daughter Kiara couldn
+   DEBUG: 2024-03-26 14:54:16,585:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:16,626:      pdf_renderer.py:  470: printSegment: t resist exploring the unknown. With a
+   DEBUG: 2024-03-26 14:54:16,658:      pdf_renderer.py:  470: printSegment: twinkle in her eye, she ventured beyond the safety of her den, her curiosity leading her down a winding path. As she
+   DEBUG: 2024-03-26 14:54:16,670:      pdf_renderer.py:  470: printSegment: skipped along, a friendly parrot perched on a branch above, warning her of a strange and unfamiliar sound in the
+   DEBUG: 2024-03-26 14:54:16,671:      pdf_renderer.py:  470: printSegment: distance. Intrigued, Kiara followed the sound, unaware that her adventure would soon take an unexpected turn.
+   DEBUG: 2024-03-26 14:54:16,672:      pdf_renderer.py:  470: printSegment: Chapter 2: The Monkey
+   DEBUG: 2024-03-26 14:54:16,673:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:16,674:      pdf_renderer.py:  470: printSegment: s Swing
+   ERROR: 2024-03-26 14:54:16,675:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:9: /home/jupyter/GenAI5/ai_agents/images/4a1b94f7-1a83-4c48-83e5-31f2a91f831a.png: No such file or directory
+   DEBUG: 2024-03-26 14:54:16,676:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-03-26 14:54:16,762:      pdf_renderer.py:  470: printSegment: High in the towering trees, Milo the mischievous monkey swung effortlessly from branch to branch, his acrobatic
+   DEBUG: 2024-03-26 14:54:16,816:      pdf_renderer.py:  470: printSegment: skills astounding to behold. His constant companion, Bella the squirrel, chattered excitedly as she gathered nuts and
+   DEBUG: 2024-03-26 14:54:16,844:      pdf_renderer.py:  470: printSegment: berries for their group. As they ventured deeper into the rainforest, they encountered a group of mean gorillas who
+   DEBUG: 2024-03-26 14:54:16,854:      pdf_renderer.py:  470: printSegment: tried to scare them away. But Milo and Bella were not afraid. With quick thinking and teamwork, they outsmarted
+   DEBUG: 2024-03-26 14:54:16,856:      pdf_renderer.py:  470: printSegment: the gorillas, proving that even the smallest of creatures can be brave when they work together.
+   DEBUG: 2024-03-26 14:54:16,857:      pdf_renderer.py:  470: printSegment: Chapter 3: The Elephant
+   DEBUG: 2024-03-26 14:54:16,857:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:16,858:      pdf_renderer.py:  470: printSegment: s Trunk
+   ERROR: 2024-03-26 14:54:16,859:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:13: /home/jupyter/GenAI5/ai_agents/images/a831b796-69b0-4b29-b136-fb31f631b935.png: No such file or directory
+   DEBUG: 2024-03-26 14:54:16,859:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-03-26 14:54:16,884:      pdf_renderer.py:  470: printSegment: At the edge of a shimmering watering hole, Trunks the wise and gentle elephant used his impressive trunk to spray
+   DEBUG: 2024-03-26 14:54:16,891:      pdf_renderer.py:  470: printSegment: water on his curious companion, Lily the zebra. As they cooled down on a hot day, they explored the nearby area,
+   DEBUG: 2024-03-26 14:54:16,892:      pdf_renderer.py:  470: printSegment: discovering a family of crocodiles lurking in the water. Lily
+   DEBUG: 2024-03-26 14:54:16,893:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:16,900:      pdf_renderer.py:  470: printSegment: s quick thinking helped them escape from the danger,
+   DEBUG: 2024-03-26 14:54:16,901:      pdf_renderer.py:  470: printSegment: reminding Trunks of the importance of respecting nature and living in harmony with other animals.
+   DEBUG: 2024-03-26 14:54:16,902:      pdf_renderer.py:  470: printSegment: Chapter 4: The Giraffe
+   DEBUG: 2024-03-26 14:54:16,902:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:16,903:      pdf_renderer.py:  470: printSegment: s Reach
+   ERROR: 2024-03-26 14:54:16,903:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:17: /home/jupyter/GenAI5/ai_agents/images/5f931f0b-1d43-4a37-8911-0f094d3f710c.png: No such file or directory
+   DEBUG: 2024-03-26 14:54:16,904:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-03-26 14:54:16,985:      pdf_renderer.py:  470: printSegment: Gerald the towering giraffe stretched his long neck high into the trees, reaching for the juiciest leaves. On his head
+   DEBUG: 2024-03-26 14:54:17,032:      pdf_renderer.py:  470: printSegment: perched Piper, a tiny but courageous finch. As Gerald feasted on the foliage, Piper warned him about a group of
+   DEBUG: 2024-03-26 14:54:17,055:      pdf_renderer.py:  470: printSegment: hunters who were approaching. Using his speed and camouflage, Gerald evaded the hunters, leading them on a
+   DEBUG: 2024-03-26 14:54:17,063:      pdf_renderer.py:  470: printSegment: merry chase through the dense undergrowth. As the sun began to set, they witnessed the breathtaking beauty of the
+   DEBUG: 2024-03-26 14:54:17,064:      pdf_renderer.py:  470: printSegment: African sunset, inspiring a sense of wonder and gratitude within them.
+   DEBUG: 2024-03-26 14:54:17,065:      pdf_renderer.py:  470: printSegment: Chapter 5: The Animal Kingdom Reunion
+   ERROR: 2024-03-26 14:54:17,066:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:22: /home/jupyter/GenAI5/ai_agents/images/1a531d9e-b497-492f-a6f5-5a471a334d4e.png: No such file or directory
+   DEBUG: 2024-03-26 14:54:17,067:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-03-26 14:54:17,139:      pdf_renderer.py:  470: printSegment: In a clearing bathed in warm sunlight, the animals from all walks of life gathered for a grand celebration. Leo,
+   DEBUG: 2024-03-26 14:54:17,181:      pdf_renderer.py:  470: printSegment: Kiara, Milo, Bella, Trunks, Lily, Gerald, and Piper shared their stories and adventures, highlighting the diversity and
+   DEBUG: 2024-03-26 14:54:17,201:      pdf_renderer.py:  470: printSegment: unity of the animal kingdom. They realized the importance of working together, respecting one another, and
+   DEBUG: 2024-03-26 14:54:17,208:      pdf_renderer.py:  470: printSegment: protecting their shared environment. As the stars twinkled above them, they concluded their reunion with a message
+   DEBUG: 2024-03-26 14:54:17,210:      pdf_renderer.py:  470: printSegment: of harmony, compassion, and the interconnectedness of all living creatures.f7-1a83-4c48-83e5-31f2a91f831a.png)
+   DEBUG: 2024-03-26 14:54:17,210:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-03-26 14:54:17,299:      pdf_renderer.py:  470: printSegment: High in the towering trees, Milo the mischievous monkey swung effortlessly from branch to branch, his acrobatic skills astounding to behold. His constant companion, Bella the squirrel, chattered excitedly as she gathered nuts and berries for their group. As they ventured deeper into the rainforest, they encountered a group of mean gorillas who tried to scare them away. But Milo and Bella were not afraid. With quick thinking and teamwork, they outsmarted the gorillas, proving that even the smallest of creatures can be brave when they work together.
+   DEBUG: 2024-03-26 14:54:17,301:      pdf_renderer.py:  470: printSegment: Chapter 3: Trunks
+   DEBUG: 2024-03-26 14:54:17,301:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:17,302:      pdf_renderer.py:  470: printSegment:  Trunk
+   ERROR: 2024-03-26 14:54:17,302:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:26: /home/jupyter/GenAI5/ai_agents/images/a831b796-69b0-4b29-b136-fb31f631b935.png: No such file or directory
+   DEBUG: 2024-03-26 14:54:17,303:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-03-26 14:54:17,326:      pdf_renderer.py:  470: printSegment: At the edge of a shimmering watering hole, Trunks the wise and gentle elephant used his impressive trunk to spray
+   DEBUG: 2024-03-26 14:54:17,332:      pdf_renderer.py:  470: printSegment: water on his curious companion, Lily the zebra. As they cooled down on a hot day, they explored the nearby area,
+   DEBUG: 2024-03-26 14:54:17,333:      pdf_renderer.py:  470: printSegment: discovering a family of crocodiles lurking in the water. Lily
+   DEBUG: 2024-03-26 14:54:17,334:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:17,340:      pdf_renderer.py:  470: printSegment: s quick thinking helped them escape from the danger,
+   DEBUG: 2024-03-26 14:54:17,341:      pdf_renderer.py:  470: printSegment: reminding Trunks of the importance of respecting nature and living in harmony with other animals.
+   DEBUG: 2024-03-26 14:54:17,342:      pdf_renderer.py:  470: printSegment: Chapter 4: Gerald
+   DEBUG: 2024-03-26 14:54:17,343:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-03-26 14:54:17,343:      pdf_renderer.py:  470: printSegment: s Reach
+   ERROR: 2024-03-26 14:54:17,344:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:30: /home/jupyter/GenAI5/ai_agents/images/5f931f0b-1d43-4a37-8911-0f094d3f710c.png: No such file or directory
+   DEBUG: 2024-03-26 14:54:17,345:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-03-26 14:54:17,421:      pdf_renderer.py:  470: printSegment: Gerald the towering giraffe stretched his long neck high into the trees, reaching for the juiciest leaves. On his head
+   DEBUG: 2024-03-26 14:54:17,464:      pdf_renderer.py:  470: printSegment: perched Piper, a tiny but courageous finch. As Gerald feasted on the foliage, Piper warned him about a group of
+   DEBUG: 2024-03-26 14:54:17,487:      pdf_renderer.py:  470: printSegment: hunters who were approaching. Using his speed and camouflage, Gerald evaded the hunters, leading them on a
+   DEBUG: 2024-03-26 14:54:17,494:      pdf_renderer.py:  470: printSegment: merry chase through the dense undergrowth. As the sun began to set, they witnessed the breathtaking beauty of the
+   DEBUG: 2024-03-26 14:54:17,495:      pdf_renderer.py:  470: printSegment: African sunset, inspiring a sense of wonder and gratitude within them.
+   DEBUG: 2024-03-26 14:54:17,496:      pdf_renderer.py:  470: printSegment: Chapter 5: The Animal Kingdom Reunion
+   ERROR: 2024-03-26 14:54:17,497:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:34: /home/jupyter/GenAI5/ai_agents/images/1a531d9e-b497-492f-a6f5-5a471a334d4e.png: No such file or directory
+   DEBUG: 2024-03-26 14:54:17,498:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-03-26 14:54:17,571:      pdf_renderer.py:  470: printSegment: In a clearing bathed in warm sunlight, the animals from all walks of life gathered for a grand celebration. Leo,
+   DEBUG: 2024-03-26 14:54:17,616:      pdf_renderer.py:  470: printSegment: Kiara, Milo, Bella, Trunks, Lily, Gerald, and Piper shared their stories and adventures, highlighting the diversity and
+   DEBUG: 2024-03-26 14:54:17,637:      pdf_renderer.py:  470: printSegment: unity of the animal kingdom. They realized the importance of working together, respecting one another, and
+   DEBUG: 2024-03-26 14:54:17,645:      pdf_renderer.py:  470: printSegment: protecting their shared environment. As the stars twinkled above them, they concluded their reunion with a message
+   DEBUG: 2024-03-26 14:54:17,646:      pdf_renderer.py:  470: printSegment: of harmony, compassion, and the interconnectedness of all living creatures.
+   DEBUG: 2024-03-26 14:54:17,647:      pdf_renderer.py:   53: 0, [1, 'The Lion', 1, 68.0]
+   DEBUG: 2024-03-26 14:54:17,647:      pdf_renderer.py:   53: 1, [2, 'Chapter 1: The Lion', 1, 106.0]
+   DEBUG: 2024-03-26 14:54:17,647:      pdf_renderer.py:   53: 2, [2, 'Chapter 2: The Monkey', 2, 70.0]
+   DEBUG: 2024-03-26 14:54:17,647:      pdf_renderer.py:   53: 3, [2, 'Chapter 3: The Elephant', 2, 193.60000000000002]
+   DEBUG: 2024-03-26 14:54:17,647:      pdf_renderer.py:   53: 4, [2, 'Chapter 4: The Giraffe', 2, 305.20000000000005]
+   DEBUG: 2024-03-26 14:54:17,647:      pdf_renderer.py:   53: 5, [2, 'Chapter 5: The Animal Kingdom Reunion', 2, 428.80000000000007]
+   DEBUG: 2024-03-26 14:54:17,647:      pdf_renderer.py:   53: 6, [2, 'Chapter 3: Trunks', 2, 564.4000000000001]
+   DEBUG: 2024-03-26 14:54:17,647:      pdf_renderer.py:   53: 7, [2, 'Chapter 4: Gerald', 2, 676.0]
+   DEBUG: 2024-03-26 14:54:17,647:      pdf_renderer.py:   53: 8, [2, 'Chapter 5: The Animal Kingdom Reunion', 3, 158.8]
