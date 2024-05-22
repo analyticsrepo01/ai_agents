@@ -1,56 +1,85 @@
-    INFO: 2024-04-23 08:00:05,054:               log.py:   20: Logging to /home/jupyter/GenAI5/ai_agents/mdpdf.log
-   DEBUG: 2024-04-23 08:00:05,055:               cli.py:  103: story.md
-    INFO: 2024-04-23 08:00:05,055:         converter.py:   14: story.md
-   DEBUG: 2024-04-23 08:00:05,058:      pdf_renderer.py:  470: printSegment: The Extraordinary Expedition of Captain Curious
-   DEBUG: 2024-04-23 08:00:05,062:      pdf_renderer.py:  470: printSegment: Chapter 1: A Thirst for Adventure
-   ERROR: 2024-04-23 08:00:05,063:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:5: https://i.imgur.com/5QzJ5Qz.jpg: No such file or directory
-   DEBUG: 2024-04-23 08:00:05,066:      pdf_renderer.py:  470: printSegment: Captain Curious, a young monkey brimming with curiosity, couldn
-   DEBUG: 2024-04-23 08:00:05,066:      pdf_renderer.py:  470: printSegment: '
-   DEBUG: 2024-04-23 08:00:05,075:      pdf_renderer.py:  470: printSegment: t resist gazing beyond the familiar treetops. The
-   DEBUG: 2024-04-23 08:00:05,076:      pdf_renderer.py:  470: printSegment: whispers of the unknown lands below filled his heart with longing. Penelope, the wise owl, observed his yearning. 
-   DEBUG: 2024-04-23 08:00:05,077:      pdf_renderer.py:  470: printSegment: "
-   DEBUG: 2024-04-23 08:00:05,079:      pdf_renderer.py:  470: printSegment: The jungle holds many wonders, Captain Curious,
-   DEBUG: 2024-04-23 08:00:05,079:      pdf_renderer.py:  470: printSegment: "
-   DEBUG: 2024-04-23 08:00:05,080:      pdf_renderer.py:  470: printSegment:  she began, 
-   DEBUG: 2024-04-23 08:00:05,080:      pdf_renderer.py:  470: printSegment: "
-   DEBUG: 2024-04-23 08:00:05,081:      pdf_renderer.py:  470: printSegment: but also dangers unseen.
-   DEBUG: 2024-04-23 08:00:05,082:      pdf_renderer.py:  470: printSegment: "
-   DEBUG: 2024-04-23 08:00:05,087:      pdf_renderer.py:  470: printSegment:  Undeterred, Captain
-   DEBUG: 2024-04-23 08:00:05,088:      pdf_renderer.py:  470: printSegment: Curious, with Whisker the playful squirrel by his side, embarked on a thrilling quest into the unknown.
-   DEBUG: 2024-04-23 08:00:05,089:      pdf_renderer.py:  470: printSegment: Chapter 2: The River of Whispers
-   ERROR: 2024-04-23 08:00:05,090:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:11: https://i.imgur.com/Z2QzQzQ.jpg: No such file or directory
-   DEBUG: 2024-04-23 08:00:05,094:      pdf_renderer.py:  470: printSegment: Their journey led them to the shimmering River of Whispers. Finn, the friendly otter, joined their expedition,
-   DEBUG: 2024-04-23 08:00:05,095:      pdf_renderer.py:  470: printSegment: sharing tales of the river
-   DEBUG: 2024-04-23 08:00:05,095:      pdf_renderer.py:  470: printSegment: '
-   DEBUG: 2024-04-23 08:00:05,108:      pdf_renderer.py:  470: printSegment: s secrets. The River Nymphs, enchanting guardians, bestowed a magical lantern, its light
-   DEBUG: 2024-04-23 08:00:05,111:      pdf_renderer.py:  470: printSegment: guiding their path. However, a lurking Shadow beneath the surface threatened their progress, leaving their fate
-   DEBUG: 2024-04-23 08:00:05,112:      pdf_renderer.py:  470: printSegment: hanging in the balance.
-   DEBUG: 2024-04-23 08:00:05,113:      pdf_renderer.py:  470: printSegment: Chapter 3: The Whispering Caves
-   ERROR: 2024-04-23 08:00:05,114:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:17: https://i.imgur.com/O2QzO2Q.jpg: No such file or directory
-   DEBUG: 2024-04-23 08:00:05,123:      pdf_renderer.py:  470: printSegment: Seeking shelter, they entered the glittering Whispering Caves. Echo, the shy bat, became their guide, navigating the
-   DEBUG: 2024-04-23 08:00:05,125:      pdf_renderer.py:  470: printSegment: maze-like tunnels. The mischievous Echo Spirits, with their playful mimicry, tested the group
-   DEBUG: 2024-04-23 08:00:05,125:      pdf_renderer.py:  470: printSegment: '
-   DEBUG: 2024-04-23 08:00:05,127:      pdf_renderer.py:  470: printSegment: s resilience. Just as
-   DEBUG: 2024-04-23 08:00:05,128:      pdf_renderer.py:  470: printSegment: they were about to escape, the Shadow
-   DEBUG: 2024-04-23 08:00:05,129:      pdf_renderer.py:  470: printSegment: '
-   DEBUG: 2024-04-23 08:00:05,130:      pdf_renderer.py:  470: printSegment: s minion emerged, forcing Captain Curious to use the River Nymphs
-   DEBUG: 2024-04-23 08:00:05,130:      pdf_renderer.py:  470: printSegment: '
-   DEBUG: 2024-04-23 08:00:05,131:      pdf_renderer.py:  470: printSegment:  gift,
-   DEBUG: 2024-04-23 08:00:05,132:      pdf_renderer.py:  470: printSegment: driving back the darkness.
-   DEBUG: 2024-04-23 08:00:05,133:      pdf_renderer.py:  470: printSegment: Chapter 4: The Mountain of Mysteries
-   ERROR: 2024-04-23 08:00:05,133:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:23: https://i.imgur.com/N2QzN2Q.jpg: No such file or directory
-   DEBUG: 2024-04-23 08:00:05,172:      pdf_renderer.py:  470: printSegment: Undeterred, they continued their climb up the treacherous Mountain of Mysteries. The Wise Mountain Goat offered
-   DEBUG: 2024-04-23 08:00:05,190:      pdf_renderer.py:  470: printSegment: cryptic advice, warning of the approaching Shadow. The Mountain Guardians, mystical creatures, presented
-   DEBUG: 2024-04-23 08:00:05,196:      pdf_renderer.py:  470: printSegment: challenging obstacles. Finally, the Shadow itself emerged, ready for a confrontation. Using his courage and wit,
-   DEBUG: 2024-04-23 08:00:05,197:      pdf_renderer.py:  470: printSegment: Captain Curious overcame the Shadow, revealing its true form.
-   DEBUG: 2024-04-23 08:00:05,198:      pdf_renderer.py:  470: printSegment: Chapter 5: Return to the Jungle
-   ERROR: 2024-04-23 08:00:05,198:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:29: https://i.imgur.com/M2QzM2Q.jpg: No such file or directory
-   DEBUG: 2024-04-23 08:00:05,228:      pdf_renderer.py:  470: printSegment: Returning to the jungle, Captain Curious and his companions were hailed as heroes. The Jungle Spirit, a mystical
-   DEBUG: 2024-04-23 08:00:05,239:      pdf_renderer.py:  470: printSegment: entity, acknowledged their growth and courage, welcoming them as protectors of the jungle. Their extraordinary
-   DEBUG: 2024-04-23 08:00:05,240:      pdf_renderer.py:  470: printSegment: expedition had transformed them, leaving a lasting impact on their lives and the jungle forevermore.
-   DEBUG: 2024-04-23 08:00:05,241:      pdf_renderer.py:   53: 0, [1, 'The Extraordinary Expedition of Captain Curious', 1, 68.0]
-   DEBUG: 2024-04-23 08:00:05,242:      pdf_renderer.py:   53: 1, [2, 'Chapter 1: A Thirst for Adventure', 1, 106.0]
-   DEBUG: 2024-04-23 08:00:05,242:      pdf_renderer.py:   53: 2, [2, 'Chapter 2: The River of Whispers', 1, 235.60000000000002]
-   DEBUG: 2024-04-23 08:00:05,242:      pdf_renderer.py:   53: 3, [2, 'Chapter 3: The Whispering Caves', 1, 365.20000000000005]
-   DEBUG: 2024-04-23 08:00:05,242:      pdf_renderer.py:   53: 4, [2, 'Chapter 4: The Mountain of Mysteries', 1, 494.80000000000007]
-   DEBUG: 2024-04-23 08:00:05,242:      pdf_renderer.py:   53: 5, [2, 'Chapter 5: Return to the Jungle', 1, 624.4]
+    INFO: 2024-05-03 00:11:06,060:               log.py:   20: Logging to /home/jupyter/GenAI5/ai_agents/mdpdf.log
+   DEBUG: 2024-05-03 00:11:06,061:               cli.py:  103: story.md
+    INFO: 2024-05-03 00:11:06,061:         converter.py:   14: story.md
+   DEBUG: 2024-05-03 00:11:06,065:      pdf_renderer.py:  470: printSegment: The Curious Case of the Missing Bananas
+   DEBUG: 2024-05-03 00:11:06,069:      pdf_renderer.py:  470: printSegment: Chapter 1: The Disappearance
+   ERROR: 2024-05-03 00:11:06,144:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:5: https://i.imgur.com/5Qy4K8z.jpg: No such file or directory
+   DEBUG: 2024-05-03 00:11:06,163:      pdf_renderer.py:  470: printSegment: Oliver awoke with the sun, energized and ready for a delicious breakfast of ripe bananas. But as he peeked out his
+   DEBUG: 2024-05-03 00:11:06,165:      pdf_renderer.py:  470: printSegment: window, a gasp escaped his lips. The once flourishing banana tree in his backyard stood bare, not a single banana in
+   DEBUG: 2024-05-03 00:11:06,165:      pdf_renderer.py:  470: printSegment: sight
+   DEBUG: 2024-05-03 00:11:06,166:      pdf_renderer.py:  470: printSegment: !
+   DEBUG: 2024-05-03 00:11:06,169:      pdf_renderer.py:  470: printSegment: Confused and concerned, Oliver raced to his friends, the Banana Bunch – five mischievous baby monkeys who shared
+   DEBUG: 2024-05-03 00:11:06,179:      pdf_renderer.py:  470: printSegment: his love for bananas. 
+   DEBUG: 2024-05-03 00:11:06,180:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-05-03 00:11:06,181:      pdf_renderer.py:  470: printSegment: The bananas are gone
+   DEBUG: 2024-05-03 00:11:06,181:      pdf_renderer.py:  470: printSegment: !
+   DEBUG: 2024-05-03 00:11:06,182:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-05-03 00:11:06,183:      pdf_renderer.py:  470: printSegment:  he exclaimed, his voice a mixture of disbelief and panic.
+   DEBUG: 2024-05-03 00:11:06,190:      pdf_renderer.py:  470: printSegment: The Banana Bunch swung into action, chattering excitedly as they searched for clues. Their investigation led them to
+   DEBUG: 2024-05-03 00:11:06,191:      pdf_renderer.py:  470: printSegment: Mr. Gruffles, a grumpy badger known for his reclusive nature. 
+   DEBUG: 2024-05-03 00:11:06,191:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-05-03 00:11:06,192:      pdf_renderer.py:  470: printSegment: Did you see anything last night?
+   DEBUG: 2024-05-03 00:11:06,193:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-05-03 00:11:06,193:      pdf_renderer.py:  470: printSegment:  Oliver asked
+   DEBUG: 2024-05-03 00:11:06,194:      pdf_renderer.py:  470: printSegment: politely.
+   DEBUG: 2024-05-03 00:11:06,195:      pdf_renderer.py:  470: printSegment: Mr. Gruffles grumbled, 
+   DEBUG: 2024-05-03 00:11:06,195:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-05-03 00:11:06,196:      pdf_renderer.py:  470: printSegment: Only a shadowy figure disappearing into the forest with a sack full of bananas.
+   DEBUG: 2024-05-03 00:11:06,197:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-05-03 00:11:06,226:      pdf_renderer.py:  470: printSegment: With this cryptic information, Oliver and the Banana Bunch ventured into the heart of the rainforest, guided by the
+   DEBUG: 2024-05-03 00:11:06,236:      pdf_renderer.py:  470: printSegment: rustling leaves that whispered secrets to those who knew how to listen. The Whispering Wind, a mysterious voice of
+   DEBUG: 2024-05-03 00:11:06,237:      pdf_renderer.py:  470: printSegment: the forest, led them to a clearing, where a single, uneaten banana lay discarded on the ground.
+   DEBUG: 2024-05-03 00:11:06,238:      pdf_renderer.py:  470: printSegment: Chapter 2: The Mysterious Clues
+   ERROR: 2024-05-03 00:11:06,239:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:19: https://i.imgur.com/05o4V9y.jpg: No such file or directory
+   DEBUG: 2024-05-03 00:11:06,252:      pdf_renderer.py:  470: printSegment: Examining the banana, Oliver noticed tiny bite marks, suggesting the culprit was a small animal. Following a trail of
+   DEBUG: 2024-05-03 00:11:06,253:      pdf_renderer.py:  470: printSegment: banana peels and tiny footprints, the monkeys and their feathered friend Beatrice, a wise owl, continued their quest.
+   DEBUG: 2024-05-03 00:11:06,254:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-05-03 00:11:06,255:      pdf_renderer.py:  470: printSegment: The thief must be afraid of heights,
+   DEBUG: 2024-05-03 00:11:06,255:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-05-03 00:11:06,264:      pdf_renderer.py:  470: printSegment:  Beatrice hooted thoughtfully, her keen eyes scanning the towering trees. The
+   DEBUG: 2024-05-03 00:11:06,265:      pdf_renderer.py:  470: printSegment: Whispering Wind stirred once more, guiding them to a giant oak, its branches cradling a hidden nest.
+   DEBUG: 2024-05-03 00:11:06,266:      pdf_renderer.py:  470: printSegment: Chapter 3: The Unexpected Suspect
+   ERROR: 2024-05-03 00:11:06,267:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:27: https://i.imgur.com/85l6Q9B.jpg: No such file or directory
+   DEBUG: 2024-05-03 00:11:06,271:      pdf_renderer.py:  470: printSegment: Peeking into the nest, they found a baby bird with a broken wing, surrounded by banana peels. Tears welled up in
+   DEBUG: 2024-05-03 00:11:06,272:      pdf_renderer.py:  470: printSegment: the bird
+   DEBUG: 2024-05-03 00:11:06,272:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-05-03 00:11:06,273:      pdf_renderer.py:  470: printSegment: s eyes as it confessed, 
+   DEBUG: 2024-05-03 00:11:06,273:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-05-03 00:11:06,274:      pdf_renderer.py:  470: printSegment: I was trying to gather food for my family, but I fell from the tree.
+   DEBUG: 2024-05-03 00:11:06,275:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-05-03 00:11:06,275:      pdf_renderer.py:  470: printSegment: The Banana Bunch
+   DEBUG: 2024-05-03 00:11:06,276:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-05-03 00:11:06,284:      pdf_renderer.py:  470: printSegment: s hearts melted with sympathy. They helped the bird back to its nest and offered a fresh banana
+   DEBUG: 2024-05-03 00:11:06,285:      pdf_renderer.py:  470: printSegment: from their own stash. Oliver realized that judging the bird based on Mr. Gruffles
+   DEBUG: 2024-05-03 00:11:06,286:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-05-03 00:11:06,286:      pdf_renderer.py:  470: printSegment:  words could have led them astray.
+   DEBUG: 2024-05-03 00:11:06,287:      pdf_renderer.py:  470: printSegment: Chapter 4: Teamwork Makes the Dream Work
+   ERROR: 2024-05-03 00:11:06,288:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:35: https://i.imgur.com/9s4p71c.jpg: No such file or directory
+   DEBUG: 2024-05-03 00:11:06,289:      pdf_renderer.py:  470: printSegment: The bird
+   DEBUG: 2024-05-03 00:11:06,290:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-05-03 00:11:06,307:      pdf_renderer.py:  470: printSegment: s family, filled with gratitude, rewarded the monkeys with a basket of juicy berries. Witnessing this act of
+   DEBUG: 2024-05-03 00:11:06,311:      pdf_renderer.py:  470: printSegment: kindness, Mr. Gruffles felt a pang of remorse for his earlier accusations. He apologized to everyone and offered to
+   DEBUG: 2024-05-03 00:11:06,312:      pdf_renderer.py:  470: printSegment: help rebuild the Banana Bunch
+   DEBUG: 2024-05-03 00:11:06,313:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-05-03 00:11:06,313:      pdf_renderer.py:  470: printSegment: s banana tree.
+   DEBUG: 2024-05-03 00:11:06,315:      pdf_renderer.py:  470: printSegment: The Whispering Wind rustled through the leaves, whispering encouragement, celebrating the power of teamwork
+   DEBUG: 2024-05-03 00:11:06,316:      pdf_renderer.py:  470: printSegment: and understanding.
+   DEBUG: 2024-05-03 00:11:06,317:      pdf_renderer.py:  470: printSegment: Chapter 5: A New Beginning
+   ERROR: 2024-05-03 00:11:06,318:      pdf_renderer.py:  217: /home/jupyter/GenAI5/ai_agents/story.md:43: https://i.imgur.com/23o4Q1y.jpg: No such file or directory
+   DEBUG: 2024-05-03 00:11:06,319:      pdf_renderer.py:  470: printSegment: With Mr. Gruffles
+   DEBUG: 2024-05-03 00:11:06,320:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-05-03 00:11:06,323:      pdf_renderer.py:  470: printSegment:  help, the community planted a new banana tree, stronger and healthier than before. They learned
+   DEBUG: 2024-05-03 00:11:06,323:      pdf_renderer.py:  470: printSegment: to appreciate each other
+   DEBUG: 2024-05-03 00:11:06,324:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-05-03 00:11:06,325:      pdf_renderer.py:  470: printSegment: s perspectives and the importance of helping those in need.
+   DEBUG: 2024-05-03 00:11:06,343:      pdf_renderer.py:  470: printSegment: Oliver and the Banana Bunch, forever marked by their adventure, vowed to remain curious and kind, carrying the
+   DEBUG: 2024-05-03 00:11:06,347:      pdf_renderer.py:  470: printSegment: valuable lessons they learned in their hearts. The Whispering Wind whispered a final message of hope and unity,
+   DEBUG: 2024-05-03 00:11:06,348:      pdf_renderer.py:  470: printSegment: promising a sweet future for them all.
+   DEBUG: 2024-05-03 00:11:06,349:      pdf_renderer.py:   53: 0, [2, 'The Curious Case of the Missing Bananas', 1, 70.0]
+   ERROR: 2024-05-03 00:11:06,349:      pdf_renderer.py:   57: Bad heading level.  More information:
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/mdpdf/pdf_renderer.py", line 55, in __del__
+    self.doc.set_toc(self.toc)
+  File "/home/jupyter/.local/lib/python3.10/site-packages/fitz/utils.py", line 1328, in set_toc
+    raise ValueError("hierarchy level of item 0 must be 1")
+ValueError: hierarchy level of item 0 must be 1
